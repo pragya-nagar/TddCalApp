@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalApp", "TddCalApp\TddCalApp.csproj", "{A8D50780-DF38-4FBF-86C9-4B0B4C800191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalApp.Library", "TddCalApp.Library\TddCalApp.Library.csproj", "{1E9D3D93-AA28-47D7-8BA7-C45C3ACCB5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D50780-DF38-4FBF-86C9-4B0B4C800191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D50780-DF38-4FBF-86C9-4B0B4C800191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D50780-DF38-4FBF-86C9-4B0B4C800191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D50780-DF38-4FBF-86C9-4B0B4C800191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9D3D93-AA28-47D7-8BA7-C45C3ACCB5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9D3D93-AA28-47D7-8BA7-C45C3ACCB5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9D3D93-AA28-47D7-8BA7-C45C3ACCB5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9D3D93-AA28-47D7-8BA7-C45C3ACCB5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA211EE8-3F20-45C0-B62C-5EE09903A253}
+	EndGlobalSection
+EndGlobal
